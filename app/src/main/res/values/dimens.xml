@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_stroke_width">1dp</dimen>
+    <dimen name="card_stroke_width_selected">3dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="gap">8dp</dimen>
+</resources>

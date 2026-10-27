@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#00639B</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_primary_container">#CDE5FF</color>
+    <color name="brand_on_primary_container">#001D32</color>
+
+    <color name="card_stroke">#E0E3E7</color>
+    <color name="card_stroke_selected">#00639B</color>
+
+    <color name="status_enrolled">#2E7D32</color>
+    <color name="status_not_enrolled">#5F6368</color>
+</resources>

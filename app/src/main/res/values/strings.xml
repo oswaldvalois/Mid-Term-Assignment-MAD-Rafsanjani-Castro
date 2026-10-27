@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Data</string>
+
+    <string name="header_title">Student Records</string>
+    <string name="header_subtitle">Mid Term Assignment MAD · Case 2 · SQLite CRUD</string>
+
+    <string name="form_title_add">Add a student</string>
+    <string name="form_title_edit">Edit selected student</string>
+
+    <string name="label_name">Student name</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_enrolled">Enrolled</string>
+
+    <string name="button_add">ADD</string>
+    <string name="button_update">EDIT</string>
+    <string name="button_delete">DELETE</string>
+    <string name="button_clear">CLEAR</string>
+
+    <string name="summary_count">%1$d record(s) stored in SQLite</string>
+    <string name="empty_state">No records yet.\nFill in the form and tap ADD.</string>
+
+    <string name="item_student_id">ID: %1$s</string>
+    <string name="status_enrolled">● Enrolled</string>
+    <string name="status_not_enrolled">● Not enrolled</string>
+
+    <string name="error_name_required">Student name is required</string>
+    <string name="error_student_id_required">Student ID is required</string>
+    <string name="error_duplicate_id">This student ID is already registered</string>
+
+    <string name="msg_added">%1$s added to the database</string>
+    <string name="msg_updated">%1$s updated</string>
+    <string name="msg_deleted">%1$s deleted</string>
+    <string name="msg_failed">Operation failed, please try again</string>
+    <string name="msg_need_selection">Select a record from the list first</string>
+    <string name="msg_form_cleared">Form cleared</string>
+
+    <string name="delete_title">Delete this record?</string>
+    <string name="delete_message">\"%1$s\" will be removed from the database. This cannot be undone.</string>
+    <string name="dialog_delete">DELETE</string>
+    <string name="dialog_cancel">CANCEL</string>
+</resources>
